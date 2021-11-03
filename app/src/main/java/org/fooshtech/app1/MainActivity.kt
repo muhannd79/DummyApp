@@ -11,4 +11,10 @@ class MainActivity : AppCompatActivity() {
         println("This is contained in my Second Commit")
         println("Local Changed")
     }
+
+    sealed class CarTypeSealed{
+        class BMW : CarTypeSealed()
+        class Toyota : CarTypeSealed()
+
+    }
 }
