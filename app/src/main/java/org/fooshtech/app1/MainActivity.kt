@@ -12,4 +12,8 @@ class MainActivity : AppCompatActivity() {
         println("Local Changed")
         println("Developer Brached code")
     }
+
+    fun getData(){
+        println("print the data..")
+    }
 }
