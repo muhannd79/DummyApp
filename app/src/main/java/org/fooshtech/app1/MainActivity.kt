@@ -16,4 +16,8 @@ class MainActivity : AppCompatActivity() {
     fun getData(){
         println("print the data..")
     }
+
+    fun getId(){
+        println("print the name:")
+    }
 }
