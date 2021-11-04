@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         println("This is contained in my Second Commit")
         println("Local Changed")
         println("Developer Brached code")
+        //Add new line in developer branch
     }
 
     fun getData(){
