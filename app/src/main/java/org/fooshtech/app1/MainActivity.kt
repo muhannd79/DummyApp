@@ -10,6 +10,15 @@ class MainActivity : AppCompatActivity() {
 
         println("This is contained in my Second Commit")
         println("Local Changed")
+        println("Developer Brached code")
+    }
+
+    fun getData(){
+        println("print the data..")
+    }
+
+    fun getId(){
+        println("print the name:")
     }
 
     sealed class CarTypeSealed{
