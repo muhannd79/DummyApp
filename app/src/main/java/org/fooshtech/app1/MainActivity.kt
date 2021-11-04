@@ -9,9 +9,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("This is contained in my Second Commit")
-        println("Local Changed sims sim sim line of code has been")
-        println("Local Changed has been changed in master")
-        println("Change 1 in Master branch")
+
+        println("Local Changed")
+        println("Developer Brached code")
+        //Add new line in developer branch
     }
 
     fun getData(){
