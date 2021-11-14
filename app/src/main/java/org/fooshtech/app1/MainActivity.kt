@@ -16,6 +16,8 @@ class MainActivity : AppCompatActivity() {
 
         println("Message from Muhannd79")
         println("Message from Muhannd Dev")
+
+        println("Message 2 from Muhanned Dev")
     }
 
     fun getData(){
